@@ -12,7 +12,7 @@ function home () {
       <div>
         <h2>About us</h2>
         <p>Planning a PARTY is our business! We are here for your every need to get the party started.</p>
-        <p>To get started, click "Build Your Own Event" and fill out the form</p>
+        <p>To get started, click "Build Your Own Event" and fill out the form. If you have questions.</p>
       </div>
     </div>
     <a href="">//Still need a route for the button// 
