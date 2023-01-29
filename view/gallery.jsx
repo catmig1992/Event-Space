@@ -1,7 +1,7 @@
 const React = require('react')
-const Def = require('./default.jsx')
+const Def = require('./default.jsx.js')
 
-function home () {
+function gallery () {
     return (
       <Def>
 <main>
@@ -26,4 +26,4 @@ function home () {
   }
   
 
-module.exports = home
+module.exports = gallery
